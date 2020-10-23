@@ -1,0 +1,13 @@
+H1{
+    color: #00ffff
+}
+p{
+    color: orange
+}
+*{
+    background-color: paleturquoise;
+}
+.Projects{
+    display: flex;
+    flex-wrap: wrap;
+}
